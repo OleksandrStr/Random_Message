@@ -1,24 +1,10 @@
+# Randome message program
 
-1. Whenever you
+##### Functionality:
 
-a) have a problem
+* Creates a random motivational message
 
-b) feel bad
+##### Problem:
 
-c) feel unmotivated
+* I made it easier than it should have been
 
-2. remember that
-
-a) you are not alone
-
-b) you can do better
-
-c) it's not for always
-
-3. 
-
-a) so work harder
-
-b) so make a plan and take action
-
-c) so believe in yourself 
