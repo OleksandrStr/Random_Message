@@ -7,3 +7,6 @@ const random = () => {
     return Math.floor(Math.random() * 3);
 };
 
+console.log("Whenever you " + Phrase1[random()]);
+console.log("remember that " + Phrase2[random()]);
+console.log(Phrase3[random()]);
